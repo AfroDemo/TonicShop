@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841599832667",
+    "project_id": "tonic-shop",
+    "storage_bucket": "tonic-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841599832667:android:5e896bb5e80d28d10f657e",
+        "android_client_info": {
+          "package_name": "com.afrodemoz.tonicshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841599832667-5fk5u05bfttj514q4nfmja5jfc52dbld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABwCPwl_MX6GL46ZharOQbZQpCMJHUlQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841599832667-5fk5u05bfttj514q4nfmja5jfc52dbld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
